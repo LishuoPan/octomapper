@@ -76,6 +76,6 @@ rosrun octomap_server octomap_saver actlab.bt
 
 ## How it looks like
 
-![lab](/home/lishuo/catkin_ws/src/octomapper/images/lab.jpg)
+![lab](./images/lab.jpg)
 
-![octomap_3](/home/lishuo/catkin_ws/src/octomapper/images/octomap_3.png)
+![octomap_3](./images/octomap_3.png)
